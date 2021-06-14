@@ -31,9 +31,8 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
-  font-family: "PT Sans";
+ html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -74,7 +73,6 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  font-family: "PT Sans";
 }
 
 /* About section */
@@ -182,12 +180,10 @@ a.sidebar-nav-item:focus {
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
-  font-family: "PT Sans";
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
-  font-family: "PT Sans";
 }
 
 /* Orange */
